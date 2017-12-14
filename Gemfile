@@ -10,12 +10,6 @@ group :test do
   gem "rspec"
 end
 
-# Hashie
-# Sinatra
-# Octokit
-# Pry
-# AwesomePrint
-
 # group :development do
 #   gem "pry"
 # end
